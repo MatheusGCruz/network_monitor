@@ -14,3 +14,6 @@ In the config.json, is possible to adjust:
     - the url to test
 
 
+Versions:
+ release v1.0.0
+    First send
